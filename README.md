@@ -24,8 +24,8 @@
 
 ## ✨
 
-- <a align="left" href="https://auth.geeksforgeeks.org/user/1hiteshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1hiteshk" height="30" width="40" /></a> **[GeeksforGeek](https://www.geeksforgeeks.org/user/1hiteshk/)** 
-- <a align="left" href="https://www.hackerrank.com/1hiteshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1hiteshk" height="30" width="40" /></a> 5 Star in C++ programming at **[HackerRank](https://www.hackerrank.com/profile/1hiteshk)**
+- <a align="left" href="https://auth.geeksforgeeks.org/user/1hiteshk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1hiteshk" height="30" width="40" /></a> **[GeeksforGeek](https://www.geeksforgeeks.org/user/1hiteshk/)** 
+- <a align="left" href="https://www.hackerrank.com/1hiteshk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1hiteshk" height="30" width="40" /></a> 5 Star in C++ programming at **[HackerRank](https://www.hackerrank.com/profile/1hiteshk)**
 
 📫 How to reach me **1hiteshK@gmail.com**
 
@@ -77,3 +77,8 @@
 
 ## Resume
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1h-b3UbIuk-SHZ4FL2MVkBjIht-9JKUPV/view?usp=sharing)
+
+## Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1hiteshk&show_icons=true&locale=en" alt="1hiteshk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hiteshk&" alt="1hiteshk" /></p>
