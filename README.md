@@ -73,12 +73,13 @@
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 
 ## Resume
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1h-b3UbIuk-SHZ4FL2MVkBjIht-9JKUPV/view?usp=sharing)
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1hiteshk&show_icons=true&locale=en" alt="1hiteshk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hiteshk&" alt="1hiteshk" /></p>
