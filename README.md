@@ -7,7 +7,7 @@
 </h3>
 
 <br/>
-<img src="./Assets/Banner v.png" alt="Front End Developer Banner" />
+<img src="./Assets/Banner%20V.png" alt="Front End Developer Banner" />
 <br/>
 
 🔭 I’m currently working on **Project** using React.js, Next.js and Chakra UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
@@ -22,10 +22,10 @@
 
 💗 Love to talk about **Research, Innovation and Tech!**
 
-## 💪 Passionate about Competitive Coding
+## ✨
 
--  **[GeeksforGeek](https://www.geeksforgeeks.org/user/1hiteshk/)** 
-- 5 Star in C++ programming at **[HackerRank](https://www.hackerrank.com/profile/1hiteshk)**
+- <a align="left" href="https://auth.geeksforgeeks.org/user/1hiteshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1hiteshk" height="30" width="40" /></a> **[GeeksforGeek](https://www.geeksforgeeks.org/user/1hiteshk/)** 
+- <a align="left" href="https://www.hackerrank.com/1hiteshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1hiteshk" height="30" width="40" /></a> 5 Star in C++ programming at **[HackerRank](https://www.hackerrank.com/profile/1hiteshk)**
 
 📫 How to reach me **1hiteshK@gmail.com**
 
