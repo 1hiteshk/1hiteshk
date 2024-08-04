@@ -27,7 +27,7 @@
 - <a align="left" href="https://auth.geeksforgeeks.org/user/1hiteshk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1hiteshk" height="30" width="40" /></a> **[GeeksforGeek](https://www.geeksforgeeks.org/user/1hiteshk/)** 
 - <a align="left" href="https://www.hackerrank.com/1hiteshk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1hiteshk" height="30" width="40" /></a> 5 Star in C++ programming at **[HackerRank](https://www.hackerrank.com/profile/1hiteshk)**
 
-📫 How to reach me **1hiteshK@gmail.com**
+📫 How to reach me **1hiteshk@gmail.com**
 
 ## 🔰 Let's Connect:
 
