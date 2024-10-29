@@ -10,7 +10,7 @@
 <img src="./Assets/Banner%20V.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **Project** using React.js, Next.js and Chakra UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **Project** using React.js, Next.js and Chakra UI, Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
