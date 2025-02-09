@@ -5,9 +5,11 @@
 
 <h3 align='center' display='flex' alignItems='center' style={{display:'flex' , gap:'6px', align-items:'center' }} >
   A passionate Frontend Developer (MERN Stack) 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Ucv7qVsJfctAP0LkedP1EGtvmINoIEOhw&s" alt="India Flag" 
-   style={{ height:'25px', width:'25px' }}  
+ <div height='24px' width='25px' overflow='hidden'>
+   <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" 
+   style={{ height:'20px' }}  
   />
+ </div>
 
 </h3>
 
