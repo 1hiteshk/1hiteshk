@@ -3,11 +3,9 @@
 </h1>
 
 
-<h3 align='center' display='flex' alignItems='center' style={{display:'flex' , gap:'6px', align-items:'center' }} >
-  A passionate Frontend Developer (MERN Stack) 
-  <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" 
-   style={{ height:'20px' }}  
-  />
+<h3 align='center' display='flex' alignItems='center' style={{display:'flex' , gap:'6px' }} >
+  A passionate Frontend Developer (MERN Stack) <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" 
+   alt="India Flag" height='25' width='25' style={{ height:'20px' }} />
 </h3>
 
 <br/>
